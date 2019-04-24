@@ -1,7 +1,7 @@
 <?php $this->load->view('_layout/header') ?>
 
         <div class="jumbotron">
-            <h1 class="display-10">Data Isi Buku</h1>
+            <h1 class="display-10">Data Isi Buku Buku</h1>
             <p class="lead"> &nbspList Data Buku</p>
             
         </div>
