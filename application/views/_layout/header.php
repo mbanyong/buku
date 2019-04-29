@@ -29,7 +29,10 @@
                 </li>
                 <li class="nav-item">
                         <a class="nav-link" href="<?php echo site_url('kategori') ?>">Data Kategori</a>
-                </li>  
+                </li> 
+                <li class="nav-item">
+                        <a class="nav-link" href="<?php echo site_url('help') ?>">Help</a>
+                </li 
             </div>
             </nav> <br><br>
             <!-- end navbar -->
